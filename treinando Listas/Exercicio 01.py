@@ -11,3 +11,4 @@ amigos = ["joão","Maria","Marcos","Tulio","Jorge"]
 print(amigos[2])
 amigos.append("Wagner")
 print(amigos)
+print(ola amigo)
